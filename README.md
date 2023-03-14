@@ -21,6 +21,11 @@ This will allow users to add friends, create blogs, and react to blogs that are 
 You will need to have these dependancies installed by running:
 npm i
     
+![social-install](https://user-images.githubusercontent.com/112136243/225166194-5934b5ef-009c-4bbd-8e18-c1d99e9f5f42.PNG)
+
+https://user-images.githubusercontent.com/112136243/225166165-e3ee8541-7e9d-4595-9e5d-f8caf828ec18.mp4
+
+
 ## Usage (#usage)
     
     
